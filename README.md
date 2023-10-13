@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CMDR-DiTRay
 - 👀 I’m interested in aviation, space, electronics and music
-- 🌱 I’m currently revising C++ and would like to study Objective-C. I know, it's dying but it's so awesome
+- 🌱 Currently, I work with C++ and Python. I like Objective-C and sometimes use it in my projects. I know, it's dying but it's so awesome
 - 💞️ I’m looking to collaborate on \<not sure\>
 - 📫 How to reach me: philip.zakharov@gmail.com
 
